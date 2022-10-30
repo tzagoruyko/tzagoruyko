@@ -23,5 +23,3 @@
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/tatyana_zagoryiko/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/zagoruyko_tatyana)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
