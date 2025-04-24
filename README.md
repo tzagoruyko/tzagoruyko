@@ -14,12 +14,6 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
-### Testing Documentation
-
-- [Checklists](https://github.com/tzagoruyko/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/tzagoruyko/Test-cases)
-- [Bug-Reports](https://github.com/tzagoruyko/Bug-reports)
-
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/tatyana_zagoryiko/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/zagoruyko_tatyana)
